@@ -3,14 +3,33 @@
 <!--
 **MohammedAlfaqeh16/MohammedAlfaqeh16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 أهلاً، أنا محمد الفقيه
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+أخصائي نظم ومطور أنظمة باستخدام ASP.NET وOracle APEX.  
+في هذا الملف أعرض بعض من مشاريعي السابقة التي قمت بتنفيذها:
+
+---
+
+## 💼 المشاريع السابقة
+
+### 🏥 منصة توفر الأدوية
+نظام يربط بين الصيدليات والمستخدمين لعرض توفر الأدوية والأسعار.
+🔗 [مشاهدة المشروع](https://github.com/MohammedAlfaqeh/medicine-platform)
+
+---
+
+### 🧾 نظام محاسبي للتأمينات والمعاشات
+نظام متكامل لإدارة الحسابات والتقارير والتكامل مع الأنظمة الأخرى.
+🔗 [مشاهدة المشروع](https://github.com/MohammedAlfaqeh/insurance-accounting)
+
+---
+
+### 📦 نظام إدارة المخزون (ERP)
+نظام بسيط لإدارة المخزون والموردين والفواتير.
+🔗 [مشاهدة المشروع](https://github.com/MohammedAlfaqeh/inventory-system)
+
+---
+
+## 📧 تواصل معي
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 alfaqehm20@email.com
