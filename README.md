@@ -37,5 +37,5 @@
 ---
 
 ## 📧 تواصل معي
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammed-al-faqeh-5037042b8)
 - 📫 alfaqehm20@email.com
