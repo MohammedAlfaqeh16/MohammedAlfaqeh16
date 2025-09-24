@@ -16,10 +16,31 @@
       color: #fff;
       text-align: center;
       padding: 40px 20px;
+      position: relative;
     }
     header h1 {
       margin: 0;
       font-size: 2.2em;
+      display: inline-block;
+    }
+    .github-link {
+      display: inline-block;
+      position: absolute;
+      top: 25px;
+      left: 25px;
+      background: #fff;
+      color: #0d6efd !important;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: bold;
+      text-decoration: none;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      transition: background 0.2s, color 0.2s;
+      border: 2px solid #0d6efd;
+    }
+    .github-link:hover {
+      background: #0d6efd;
+      color: #fff !important;
     }
     header p {
       margin-top: 10px;
@@ -74,6 +95,7 @@
 <body>
 
 <header>
+  <a class="github-link" href="https://github.com/MohammedAlfaqeh16/MohammedAlfaqeh16" target="_blank">صفحة GitHub الرئيسية</a>
   <h1>👋 أهلاً، أنا محمد الفقيه</h1>
   <p>أخصائي نظم ومطور أنظمة باستخدام ASP.NET وOracle APEX</p>
 </header>
